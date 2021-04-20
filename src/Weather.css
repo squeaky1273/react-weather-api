@@ -1,0 +1,25 @@
+.Weather input {
+    border: 1px solid;
+    padding: 1em;
+    font-size: 1em;
+    margin: 0;
+    border-radius: 0.5em 0 0 0.5em;
+  }
+  
+.Weather button {
+    border: 1px solid black;
+    padding: 1em;
+    font-size: 1em;
+    margin: 0;
+    background-color: black;
+    color: white;
+    border-radius: 0 0.5em 0.5em 0;
+}
+
+.Weather h1 {
+  color: green;
+}
+
+.Weather p {
+  color: green;
+}
