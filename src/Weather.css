@@ -16,6 +16,13 @@
     border-radius: 0 0.5em 0.5em 0;
 }
 
+.Type {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: auto;
+}
+
 .Weather h1 {
   color: green;
 }

@@ -1,0 +1,7 @@
+.Temperature {
+    margin-bottom: 1em;
+}
+
+.Temperature h1, .Temperature p {
+    margin: 0;
+}

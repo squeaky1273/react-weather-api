@@ -1,0 +1,7 @@
+.WeatherDescription {
+    margin-bottom: 1em;
+}
+
+.WeatherDescription h1, .WeatherDescription p {
+    margin: 0;
+}
